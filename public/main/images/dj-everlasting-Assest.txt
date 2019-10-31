@@ -1,0 +1,12 @@
+where do i play  BG-Color = #030106
+
+the yellow used = #ffaa00
+
+
+Thick text font = TTnorms
+light text = Open sans
+Script font at homepage = Tuesday Night
+
+
+
+upcoming event BG = #030106
